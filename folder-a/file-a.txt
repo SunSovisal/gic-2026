@@ -1,1 +1,4 @@
 this is file a in folder a
+add remote via ssh
+ssh-keygen via rsa, ed25519 algor
+cd ~/.ssh, look for rsa or ed25519. if it exist, skip, if it doesn't find the command to generate
